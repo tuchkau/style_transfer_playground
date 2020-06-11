@@ -1,0 +1,7 @@
+Pillow
+matplotlib
+numpy
+torch
+torchvision
+tqdm
+kornia
